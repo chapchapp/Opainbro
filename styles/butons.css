@@ -1,0 +1,12 @@
+.list-inline{
+    text-align: center;
+        display: 0;
+        color: black
+    
+}
+
+.list-inline a {
+    font-size: 48px;
+    margin: 0 32px;
+}
+
