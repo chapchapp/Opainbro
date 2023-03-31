@@ -74,7 +74,7 @@ h4{
 
 h5{
     font-family: 'Montserrat', sans-serif;
-    font-size:larger;
+    font-size:large;
 }
 
 h6{
@@ -83,6 +83,41 @@ h6{
     text-align: center;
 }
 
+#plats{
 
+    padding: 8px;
+}
+
+#boissons{
+    background-color: green;
+    padding: 20px;
+
+}
+
+.accroche{
+    background-color: orange;
+    color: #2a303b;
+    padding: 8px;
+}
+
+#fin{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: orange;
+    padding: 26px;
+}
+
+.brochette{
+    background-image: url(../images/Pain-Brochettes-Ivoirien.jpg);
+    height: 60vh;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
+    align-items: center;
+    background-attachment: fixed;
+}
 
 
